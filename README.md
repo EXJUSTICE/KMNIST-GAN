@@ -5,3 +5,5 @@ Kuzushiji-MNIST dataset is a replacement for the MNIST dataset (28x28 grayscale,
 The objective of this tutorial is to demonstrate the capabilities of GAN’s in creating representations that cannot be differentiated from true originals. In a sense,  bringing the extinct Kuzushiji script back to life, by learning from the work of thousands of poets and writers.
 
 Based on the implementation by Erik Lindnoren
+
+To run this notebook, a local copy of the Kuzushiji MNIST is required.
