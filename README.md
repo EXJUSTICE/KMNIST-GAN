@@ -13,6 +13,8 @@ Based on the implementation by Erik Lindnoren & Vincent Kao
 
 To run this notebook, a local copy of the Kuzushiji MNIST is required.
 
+Example output:
+
 <p align="center">
   <img src="https://github.com/EXJUSTICE/KMNIST-GAN/blob/master/mnist_88000.png" >
 </p>
